@@ -6,7 +6,7 @@ The game includes smooth controls, continuously spawning tracks and obstacles, c
 
 2.Features
 
-Infinite endless runner gameplay
+Infinite endless runner gameplay 
 AR/VR immersive environment
 Real-time obstacle spawning
 Coin collection and scoring system
@@ -27,7 +27,7 @@ Physics and Animation Systems
 
 4.Objective
 
-<img width="1200" height="400" alt="Screenshot 2025-05-09 121828" src="https://github.com/user-attachments/assets/fea1a858-6eb8-4867-9e4e-885e6ac92915" />
-<img width="1200" height="400" alt="Screenshot 2025-05-09 122005" src="https://github.com/user-attachments/assets/d4883ea8-66cb-4cb6-8fb4-237c122e72ec" />
+<img width="1000" height="400" alt="Screenshot 2025-05-09 121828" src="https://github.com/user-attachments/assets/fea1a858-6eb8-4867-9e4e-885e6ac92915" />
+<img width="1000" height="400" alt="Screenshot 2025-05-09 122005" src="https://github.com/user-attachments/assets/d4883ea8-66cb-4cb6-8fb4-237c122e72ec" />
 
 
