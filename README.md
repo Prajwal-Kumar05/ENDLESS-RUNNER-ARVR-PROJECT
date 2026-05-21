@@ -29,7 +29,8 @@ Physics and Animation Systems
 The objective of this project is to explore immersive AR/VR game development by building an interactive endless runner experience that combines engaging gameplay mechanics, character customization, collectible systems, and optimized real-time 3D environments.
 
 
-<img width="700" height="400" alt="Screenshot 2025-05-09 121828" src="https://github.com/user-attachments/assets/fea1a858-6eb8-4867-9e4e-885e6ac92915" />
-<img width="700" height="400" alt="Screenshot 2025-05-09 122005" src="https://github.com/user-attachments/assets/d4883ea8-66cb-4cb6-8fb4-237c122e72ec" />
+<img width="600" height="300" alt="Screenshot 2025-05-09 121828" src="https://github.com/user-attachments/assets/fea1a858-6eb8-4867-9e4e-885e6ac92915" />
+<img width="600" height="300" alt="Screenshot 2025-05-09 122005" src="https://github.com/user-attachments/assets/d4883ea8-66cb-4cb6-8fb4-237c122e72ec" />
+<img width="600" height="300" alt="Screenshot 2025-05-09 121925" src="https://github.com/user-attachments/assets/eff4c34e-a03f-4fe9-839c-69ce86d3a4b9" />
 
 
